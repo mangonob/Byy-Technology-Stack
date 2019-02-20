@@ -498,7 +498,7 @@ $ git add . && git commit -m "H"
 
 
 
-####2.13 拉取 `pull`
+#### 2.13 拉取 `pull`
 
 ​	拉取`git pull`操作从远程服务器获取最新的内容（fetch），并将远程分支的内容应用到本地分支（通过merge或者rebase）。你可以使用`git pull`完成获取和应用到本地的操作，也可以使用`git fetch`获取，然后自己使用`git merge`或`git rebase`来完成同样的功能。
 
@@ -515,5 +515,5 @@ $ git pull -f origin --all
 
 
 
-###3 进阶使用
+### 3 进阶使用
 
