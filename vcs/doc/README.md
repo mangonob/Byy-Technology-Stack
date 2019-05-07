@@ -280,7 +280,7 @@ $ git rev-parse origin/master
 
 
 
-####2.7 分支 `branch`
+#### 2.7 分支 `branch`
 
 ​	分支命令`git branch`用于创建，删除，修改分支，默认执行`git branch`时会在当前分支的HEAD处创建一个分支，但不会切换到新创建的分支。如果想进行切换分支操作，需要用到检出命令。
 
